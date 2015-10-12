@@ -1,6 +1,6 @@
 #Low Noise Amplifier
 
-I worked on the design at the Rosenstein Laboratory for Embedded Electronics, Brown University in Summer 2014  
+Design at the Rosenstein Laboratory for Embedded Electronics, Brown University in Summer 2014  
 
 
 The initial schematic capture was conducted in DxDesigner  
